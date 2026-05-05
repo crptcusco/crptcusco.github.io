@@ -1,20 +1,13 @@
-title: "Carlos R. P. Tovar, PhD"
-author:
-  name: "Carlos R. P. Tovar"
-  email: "crptcusco@gmail.com"
-description: >- # Tu descripción corta para SEO
-  Doctor en Ciencias de la Computación, Investigador en Neurociencia Computacional 
-  y Profesor en la Universidad Tecnológica del Perú (UTP).
-baseurl: "" 
-url: "https://crptcusco.github.io"
+title: "Carlos Reynaldo Portocarrero Tovar, Ph.D."
+theme: jekyll-theme-minimal
+markdown: GFM
+description: "Computational Neuroscience • Boolean Networks • HPC"
+show_downloads: false
+theme: jekyll-theme-minimal
 
-# Configuración de Redes Sociales
-linkedin_username: crpt-676b0086
-github_username:  crptcusco
-google_scholar: 9pI5_aIAAAAJ
-# Puedes añadir twitter_username si lo usas
-
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# Opcional: enlaces sociales
+github:
+  username: crtpcusco
+linkedin: "https://www.linkedin.com/in/tu-perfil"
+orcid: "https://orcid.org/0000-0002-3924-8367"
+scopus: "https://www.scopus.com/authid/detail.uri?authorId=57215312322"
