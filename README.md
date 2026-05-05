@@ -1,4 +1,4 @@
-[English Version](README_en.md)
+[English Version](README_en.html)
 
 # Carlos Reynaldo Portocarrero Tovar, Ph.D.
 **Ciencias de la Computación • Neurociencia Computacional • Redes Booleanas • HPC**
