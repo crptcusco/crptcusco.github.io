@@ -1,3 +1,20 @@
-theme: jekyll-theme-minimal
-title: Phd Carlos R P Tovar homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "Carlos R. P. Tovar, PhD"
+author:
+  name: "Carlos R. P. Tovar"
+  email: "crptcusco@gmail.com"
+description: >- # Tu descripción corta para SEO
+  Doctor en Ciencias de la Computación, Investigador en Neurociencia Computacional 
+  y Profesor en la Universidad Tecnológica del Perú (UTP).
+baseurl: "" 
+url: "https://crptcusco.github.io"
+
+# Configuración de Redes Sociales
+linkedin_username: crpt-676b0086
+github_username:  crptcusco
+google_scholar: 9pI5_aIAAAAJ
+# Puedes añadir twitter_username si lo usas
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
